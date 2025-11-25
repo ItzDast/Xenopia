@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="d53">
               <div class="d54">Вы должны авторизоваться для доступа к серверу!</div>
               <div class="d55">Вход и регистрация на Xenopia</div>
-              <a href="Xenopia.html" class="d56">войти через дискорд</a>
+              <a href="index.html" class="d56">войти через дискорд</a>
             </div>
           `;
           document.body.insertBefore(content2, document.querySelector('.footer'));
@@ -68,3 +68,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
